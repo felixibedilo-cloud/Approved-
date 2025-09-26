@@ -1,4 +1,4 @@
-# referer-mod
+military zones # referer-mod
 
 ![referer-mod logo: cat ears peeking over an edge](icon.svg)
 
